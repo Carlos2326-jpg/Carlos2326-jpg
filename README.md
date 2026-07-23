@@ -1,4 +1,4 @@
-<h1>🚀 João Carlos | Desenvolvedor Front-end</h1>
+<h1>🚀 João Carlos | Desenvolvedor Web</h1>
 
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=A52A2A&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Seja+bem-vindo(a)!;%F0%9F%92%BB+Desenvolvedor+Web;%F0%9F%94%A5+Full+Stack+em+forma%C3%A7%C3%A3o;%E2%9D%A4%EF%B8%8F+Apaixonado+por+C%C3%B3digo;%F0%9F%8C%90+Construindo+o+futuro+digital;%F0%9F%92%AA+Sempre+aprendendo+algo+novo;%F0%9F%92%BB+HTML+%7C+CSS+%7C+JavaScript;%F0%9F%9A%80+PHP+%7C+Laravel+%7C+React;%F0%9F%8E%AF+Vamos+criar+algo+incr%C3%ADvel%3F" alt="Typing SVG" /> 
@@ -93,27 +93,25 @@
 <div align="center">
 
   <a href="https://github.com/Carlos2326-jpg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a>
   <a href="mailto:joaocarlosdutra2326@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a>
   
   <br/>
 
   <!-- <a href="https://wa.me/seu_numero">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a> -->
   <!-- <a href="https://instagram.com/seu_perfil">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a> -->
   <!-- <a href="https://seu_portfolio.com">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
   </a> -->
-  
-</div>
   
 </div>
