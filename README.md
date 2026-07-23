@@ -97,19 +97,20 @@
   <a href="mailto:joaocarlosdutra2326@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  
-  <br/>
 
- 
-   <!-- 🔜 EM BREVE  <a href="https://wa.me/seu_numero" target="_blank" rel="noopener noreferrer">
+  <br>
+
+   <!-- <a href="https://wa.me/seu_numero" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>  -->
-   EM BREVE <a href="https://instagram.com/dev_joaoc" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/dev_joaoc" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-   <!-- 🔜 EM BREVE  <a href="https://seu_portfolio.com" target="_blank" rel="noopener noreferrer">
+   <!-- <a href="https://seu_portfolio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a> -->
+</div>
+
  
   
-</div>
+
