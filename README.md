@@ -88,26 +88,26 @@
 
 <div align="center">
 
-  <a href="https://github.com/Carlos2326-jpg" target="_blank">
+  <a href="https://github.com/Carlos2326-jpg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="mailto:joaocarlosdutra2326@gmail.com" target="_blank">
+  <a href="mailto:joaocarlosdutra2326@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
   
   <br/>
 
-  <!-- 
-  <a href="https://wa.me/seu_numero" target="_blank">
+  <!-- 🔜 EM BREVE 
+  <a href="https://wa.me/seu_numero" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="https://instagram.com/seu_perfil" target="_blank">
+  <a href="https://instagram.com/seu_perfil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="https://seu_portfolio.com" target="_blank">
+  <a href="https://seu_portfolio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
   -->
