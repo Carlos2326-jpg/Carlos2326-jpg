@@ -87,31 +87,29 @@
 <h2>🌟 Conecte-se Comigo</h2>
 
 <div align="center">
-  
- ## 🌟 Conecte-se Comigo
 
-<div align="center">
-
-  <a href="https://github.com/Carlos2326-jpg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
+  <a href="https://github.com/Carlos2326-jpg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
+  <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
-  <a href="mailto:joaocarlosdutra2326@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
+  <a href="mailto:joaocarlosdutra2326@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" />
   </a>
   
   <br/>
 
-  <!-- <a href="https://wa.me/seu_numero">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
-  </a> -->
-  <!-- <a href="https://instagram.com/seu_perfil">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
-  </a> -->
-  <!-- <a href="https://seu_portfolio.com">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" target="_blank" />
-  </a> -->
+  <!-- 
+  <a href="https://wa.me/seu_numero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" />
+  </a>
+  <a href="https://instagram.com/seu_perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" />
+  </a>
+  <a href="https://seu_portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" />
+  </a>
+  -->
   
 </div>
