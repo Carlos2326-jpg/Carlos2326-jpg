@@ -21,29 +21,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (5º/6º) na **Fatec
 - 📝 Diários de bordo mostrando o processo de desenvolvimento
 - 🛠️ Soluções usando PHP, Laravel, React, JavaScript e mais
 
----
+<!-- ---
 
 ## 🎯 Projetos em Destaque
 
 > *Abaixo, alguns dos meus melhores trabalhos. Clique para ver o código completo!*
 
-### 🛒 [Nome do Projeto 1] - E-commerce/Blog/etc
-**Descrição:** Breve descrição do que o projeto faz e qual problema resolve.
-**Stack:** PHP, Laravel, MySQL, Bootstrap
-**Destaque:** Funcionalidade X ou Y que você implementou
-[🔗 Ver repositório](link)
-
-### 📱 [Nome do Projeto 2] - Landing Page/PWA/etc
-**Descrição:** Breve descrição...
-**Stack:** React, Node.js, MongoDB
-**Destaque:** Integração com API externa, etc
-[🔗 Ver repositório](link)
-
 ### 🎨 [Nome do Projeto 3] - UI/UX Design System
 **Descrição:** Breve descrição...
 **Stack:** HTML, CSS, JavaScript puro
 **Destaque:** Design responsivo, animações
-[🔗 Ver repositório](link)
+[🔗 Ver repositório](link) -->
 
 ---
 
@@ -94,10 +82,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (5º/6º) na **Fatec
 ## 📈 O que estou aprendendo agora
 
 - 🔄 Melhorando minhas habilidades em **Laravel** e **React**
-- 📱 Explorando **PWA** (Progressive Web Apps)
-- 🧪 Testes automatizados com **PHPUnit**
-- ☁️ Conceitos de **Cloud Computing** (AWS)
-
+- 📱 Explorando **Mobile First**
+- 📝 Revisando conseitos basicos para fortacer minha base no desenvolvimento web
 ---
 
 ## 📫 Como me contratar
