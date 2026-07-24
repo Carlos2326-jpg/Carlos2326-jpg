@@ -93,7 +93,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (5º/6º) na **Fatec
   | Canal | Onde me encontrar |
   |-------|-------------------|
   | 📧 **E-mail** | [joaocarlosdutra2326@gmail.com](mailto:joaocarlosdutra2326@gmail.com) |
-  | 💼 **LinkedIn** | [João Carlos](https://www.linkedin.com/in/joao-carlos-730a0b356/) |
+  | 💼 **LinkedIn** | [João Carlos](https://www.linkedin.com/in/joaoweb/) |
   | 📸 **Instagram** | [@dev_joaoc](https://instagram.com/dev_joaoc) |
   | 🐙 **GitHub** | [Carlos2326-jpg](https://github.com/Carlos2326-jpg) |
 
