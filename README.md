@@ -1,41 +1,53 @@
-<h1>🚀 João Carlos | Desenvolvedor Web</h1>
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=A52A2A&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Seja+bem-vindo(a)!;%F0%9F%92%BB+Desenvolvedor+Web;%F0%9F%94%A5+Full+Stack+em+forma%C3%A7%C3%A3o;%E2%9D%A4%EF%B8%8F+Apaixonado+por+C%C3%B3digo;%F0%9F%8C%90+Construindo+o+futuro+digital;%F0%9F%92%AA+Sempre+aprendendo+algo+novo;%F0%9F%92%BB+HTML+%7C+CSS+%7C+JavaScript;%F0%9F%9A%80+PHP+%7C+Laravel+%7C+React;%F0%9F%8E%AF+Vamos+criar+algo+incr%C3%ADvel%3F" alt="Typing SVG" /> 
-</div>
-
-<h2>🧑‍💻 Sobre Mim</h2>
+<h1 align="center">🚀 João Carlos | Desenvolvedor Web Freelancer</h1>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Nome-João_Carlos-A52A2A?style=for-the-badge&logo=github&logoColor=white"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Formação-ADS_(5/6)-A52A2A?style=for-the-badge&logo=graduation&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Stack-Full_Stack_Web-A52A2A?style=for-the-badge&logo=code&logoColor=white"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Foco-Desenvolvimento_Web-A52A2A?style=for-the-badge&logo=web&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📍-Brasil-0D1117?style=for-the-badge&logo=brasil&logoColor=white"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Pronomes-ele/dele-A52A2A?style=for-the-badge&logo=pride&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=A52A2A&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Full+Stack+em+forma%C3%A7%C3%A3o;%F0%9F%93%B1+Dispon%C3%ADvel+para+Freelance;%F0%9F%9A%80+Transformando+ideias+em+c%C3%B3digo;%F0%9F%8E%AF+Vamos+criar+algo+incr%C3%ADvel%3F" alt="Typing SVG" />
 </div>
 
-<h2>📊 Estatísticas do GitHub</h2>
+<!-- BADGE DE DISPONIBILIDADE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📌-Disponível_para_Freelance-00C853?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/📅-240h_para_estágio-FF6B00?style=for-the-badge&logo=clockify&logoColor=white" />
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (5º/6º) na **Fatec**, apaixonado por transformar ideias em soluções digitais. Atualmente, estou em busca de **projetos freelance** para acumular as **240 horas de estágio** exigidas pelo curso e, principalmente, para ganhar experiência prática no desenvolvimento web.
+
+**O que você encontra aqui:**
+- ✅ Projetos completos com código bem documentado
+- 📝 Diários de bordo mostrando o processo de desenvolvimento
+- 🛠️ Soluções usando PHP, Laravel, React, JavaScript e mais
+
+---
+
+## 🎯 Projetos em Destaque
+
+> *Abaixo, alguns dos meus melhores trabalhos. Clique para ver o código completo!*
+
+### 🛒 [Nome do Projeto 1] - E-commerce/Blog/etc
+**Descrição:** Breve descrição do que o projeto faz e qual problema resolve.
+**Stack:** PHP, Laravel, MySQL, Bootstrap
+**Destaque:** Funcionalidade X ou Y que você implementou
+[🔗 Ver repositório](link)
+
+### 📱 [Nome do Projeto 2] - Landing Page/PWA/etc
+**Descrição:** Breve descrição...
+**Stack:** React, Node.js, MongoDB
+**Destaque:** Integração com API externa, etc
+[🔗 Ver repositório](link)
+
+### 🎨 [Nome do Projeto 3] - UI/UX Design System
+**Descrição:** Breve descrição...
+**Stack:** HTML, CSS, JavaScript puro
+**Destaque:** Design responsivo, animações
+[🔗 Ver repositório](link)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos2326-jpg&show_icons=true&theme=radical&bg_color=0D1117&title_color=A52A2A&icon_color=A52A2A&border_color=A52A2A&border_radius=10" />
@@ -46,71 +58,72 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos2326-jpg&theme=dark&background=0D1117&stroke=A52A2A&ring=A52A2A&fire=A52A2A&currStreakLabel=A52A2A" alt="GitHub Streak" /> 
 </div>
 
+---
 
-<h2>🛠️ Stack tecnológica</h2>
-
-<h3>🎨 Front-end</h3>
-
-<div align="center" style="display: inline_block"><br> 
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);">  
-</div>
-
-<h3>⚙️ Back-end</h3>
-
-<div align="center" style="display: inline_block"><br> 
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-</div>
-
-<h3>🗄️ Banco de Dados</h3>
-
-<div align="center" style="display: inline_block"><br> 
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-</div>
-
-<h3>🐧 Ferramentas & Ambiente</h3>
-
-<div align="center" style="display: inline_block"><br> 
-  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="Arch Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);"> 
-  <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="filter: drop-shadow(0 0 5px #A52A2A);">
-</div>
-
-<h2>🌟 Conecte-se Comigo</h2>
+## 🛠️ Stack Tecnológica
 
 <div align="center">
-
-  <a href="https://github.com/Carlos2326-jpg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a>
-  <a href="https://www.linkedin.com/in/joao-carlos-730a0b356/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a>
-  <a href="mailto:joaocarlosdutra2326@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a>
-
-  <br>
-
-   <!-- <a href="https://wa.me/seu_numero" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a>  -->
-  <a href="https://instagram.com/dev_joaoc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a>
-   <!-- <a href="https://seu_portfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0D1117&labelColor=A52A2A" />
-  </a> -->
+  
+  ### 🎨 Front-end
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  ### ⚙️ Back-end
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  ### 🗄️ Banco de Dados
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  ### 🐧 Ferramentas
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
- 
-  
+---
 
+## 📈 O que estou aprendendo agora
+
+- 🔄 Melhorando minhas habilidades em **Laravel** e **React**
+- 📱 Explorando **PWA** (Progressive Web Apps)
+- 🧪 Testes automatizados com **PHPUnit**
+- ☁️ Conceitos de **Cloud Computing** (AWS)
+
+---
+
+## 📫 Como me contratar
+
+<div align="center">
+  
+  | Canal | Onde me encontrar |
+  |-------|-------------------|
+  | 📧 **E-mail** | [joaocarlosdutra2326@gmail.com](mailto:joaocarlosdutra2326@gmail.com) |
+  | 💼 **LinkedIn** | [João Carlos](https://www.linkedin.com/in/joao-carlos-730a0b356/) |
+  | 📸 **Instagram** | [@dev_joaoc](https://instagram.com/dev_joaoc) |
+  | 🐙 **GitHub** | [Carlos2326-jpg](https://github.com/Carlos2326-jpg) |
+
+  <br/>
+  
+  **💬 Vamos conversar sobre seu projeto!**  
+  *Estou disponível para orçamentos e parcerias.*
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Se gostou de algum projeto, deixe uma estrela! Isso me ajuda a continuar evoluindo.</i>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Carlos2326-jpg&color=A52A2A&style=flat-square" alt="Contador de visitas" />
+</div>
